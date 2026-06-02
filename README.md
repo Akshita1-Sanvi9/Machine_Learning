@@ -1,1 +1,1 @@
-I am learning MAchine learning from Sheryains AI School !!
+I am learning Machine learning from scratch !!
